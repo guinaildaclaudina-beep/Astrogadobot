@@ -1,0 +1,2 @@
+# Astrogadobot
+Bot de interação 
